@@ -25,8 +25,7 @@ Este proyecto proporciona un sistema básico de registro y autenticación de usu
 
 ## Contribución
 Si deseas contribuir a este proyecto, sigue los pasos descritos en la sección de Contribución del archivo `README.md`
-
-                                                    - **Atte: Mauricio G. Coca A.**
+- **Atte: Mauricio G. Coca A.**
                                                    
 
 
