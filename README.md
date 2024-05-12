@@ -24,7 +24,7 @@ Este proyecto proporciona un sistema básico de registro y autenticación de usu
 - Después del inicio de sesión exitoso, serás redirigido a `bienvenido.php`, donde se muestra un mensaje de bienvenida.
 
 ## Contribución
-Si deseas contribuir a este proyecto, sigue los pasos descritos en la sección de Contribución del archivo `README.md`.
+Si deseas contribuir a este proyecto, sigue los pasos descritos en la sección de Contribución del archivo `README.md`
 
                                                    **Atte: Mauricio G. Coca A.**
                                                    
