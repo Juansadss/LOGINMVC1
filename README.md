@@ -1,4 +1,4 @@
-# Proyecto de Registro y Autenticación de Usuarios
+# Proyecto de Registro y Login de Usuarios
 
 ## Descripción
 Este proyecto proporciona un sistema básico de registro y autenticación de usuarios utilizando PHP y MySQL. Permite a los usuarios registrarse en el sistema, iniciar sesión y acceder a áreas protegidas.
