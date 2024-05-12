@@ -1,17 +1,20 @@
 # Proyecto de Registro y Login de Usuarios
 
 ## Descripción
-Este proyecto proporciona un sistema básico de registro y autenticación de usuarios utilizando PHP y MySQL. Permite a los usuarios registrarse en el sistema, iniciar sesión y acceder a áreas protegidas.
+Este proyecto proporciona un sistema básico de registro y autenticación de usuarios utilizando PHP y MySQL. Permite a los usuarios registrarse en el sistema, iniciar sesión y acceder a áreas protegidas
+usando XAMPP, PHP Y MYSQL.
 
 ## Instalación
 1. Clona este repositorio en tu máquina local.
 2. Configura la base de datos MySQL con los siguientes detalles:
-   - Servidor: localhost
-   - Base de datos: login_web
-   - Usuario: root
-   - Contraseña: hola
-3. Ejecuta el script SQL proporcionado en el archivo `database.sql` para crear la tabla de usuarios.
-4. Asegúrate de que tu servidor web (como Apache) esté configurado correctamente y que PHP esté instalado.
+
+- servidor = "localhost"; // Dirección del servidor de la base de datos
+- db = "login_web"; // Nombre de la base de datos
+- username = "root"; // Nombre de usuario de la base de datos
+- password = "hola"; // Contraseña de la base de datos
+
+3. Copia el script SQL proporcionado en el archivo `Script.txt`  para crear la tabla de usuarios y la Base de Datos en phpmyadmin en una de las opciones del Menú de arriba que normalmente se llama "SQL" .
+4. Asegúrate de que tu servidor web y tu MYSQL (como Apache y phpmyadmin) esté configurado correctamente y que PHP esté instalado.
 5. Navega hasta la carpeta raíz del proyecto en tu servidor local.
 
 ## Configuración
